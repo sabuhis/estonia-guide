@@ -2,6 +2,7 @@
 layout: default
 title: Estoniyada Gəziləcək Yerlər və Restoranlar
 ---
+{% include theme-toggle.html %}
 
 # 🌿 Estoniyada Gəziləcək, Görüləcək və Dadılacaq Yerlər
 

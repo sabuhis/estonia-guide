@@ -2,6 +2,7 @@
 layout: default
 title: Estoniyada Yaşamaq Bələdçisi
 ---
+{% include theme-toggle.html %}
 
 <style>
 /* 🌙 Dark mode default */
@@ -116,6 +117,26 @@ h1, h2, h3 {
 </div>
 
 ---
+
+<div class="card-grid">
+  <div class="card">
+    <h3>🛒 <a href="./marketler.html">Marketlər və Mağazalar</a></h3>
+    <p>Fiziki və onlayn alış-veriş, türk məhsulları, elektronika və ərzaq linkləri.</p>
+  </div>
+  <div class="card">
+    <h3>🌿 <a href="./gezinti.html">Gəzinti & Restoranlar</a></h3>
+    <p>Ailəvi istirahət, muzeylər, restoranlar, parklar və bölgə səfərləri.</p>
+  </div>
+  <div class="card">
+    <h3>📄 <a href="./qanunlar.html">Qanunlar və Yaşayış</a></h3>
+    <p>Viza, oturum icazəsi, səhiyyə və gündəlik qaydalar.</p>
+  </div>
+  <div class="card">
+    <h3>📬 <a href="https://github.com/sabuhis/estonia-guide/issues">Əlaqə & Tövhə</a></h3>
+    <p>Yeni link və ya məlumat əlavə etmək üçün PR/Issue aç.</p>
+  </div>
+</div>
+
 
 ### 💬 Haqqında
 

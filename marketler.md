@@ -2,6 +2,7 @@
 layout: default
 title: Marketlər (onlayn + fiziki)
 ---
+{% include theme-toggle.html %}
 
 # 🛒 Estoniyada Marketlər və Onlayn Mağazalar
 
