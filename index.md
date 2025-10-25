@@ -62,6 +62,16 @@ h1, h2, h3 {
 .card:hover {
   transform: scale(1.02);
 }
+
+/* 👣 Footer stili */
+footer {
+  margin-top: 3rem;
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid var(--link-color);
+  opacity: 0.85;
+  font-size: 0.9rem;
+}
 </style>
 
 <button class="theme-toggle" onclick="toggleTheme()">🌙</button>
@@ -104,14 +114,17 @@ h1, h2, h3 {
     <h3>🌿 <a href="./gezinti.html">Gəziləcək və Görüləcək Yerlər</a></h3>
     <p>Ailəvi istirahət, muzeylər, restoranlar, parklar və bölgə səfərləri üçün təlimat.</p>
   </div>
+
   <div class="card">
     <h3>💶 <a href="./benefitler.html">Faydalar & Güzəştlər</a></h3>
-    <p>Uşaq pulu, doğum yardımı, pulsuz nəqliyyat, işsizlik ödənişi, ailə kartı, pulsuz muzey günləri və digər güzəştlər.</p>
+    <p>Uşaq pulu, doğum yardımı, pulsuz nəqliyyat, işsizlik ödənişi, ailə kartı, muzey endirimləri və digər dövlət dəstəkləri.</p>
   </div>
+
   <div class="card">
     <h3>📄 <a href="./qanunlar.html">Qanunlar və Yaşayış</a></h3>
-    <p>Viza, oturum icazəsi, səhiyyə və gündəlik həyat qaydaları barədə məlumatlar.</p>
+    <p>Viza, oturum icazəsi, təhsil, səhiyyə və gündəlik həyat qaydaları barədə məlumatlar.</p>
   </div>
+
   <div class="card">
     <h3>📬 Əlaqə və Tövhə</h3>
     <p>Yeni məlumat və ya təklif əlavə etmək istəyirsənsə, <a href="https://github.com/sabuhis/estonia-guide/issues">buradan</a> paylaş.</p>
@@ -120,11 +133,9 @@ h1, h2, h3 {
 
 ---
 
-
-### 💬 Haqqında
-
-Bu sayt Estoniyaya yeni köçən azərbaycanlılar üçün təcrübə, məlumat və faydalı linklərin toplandığı könüllü layihədir. 
-
-Started by: AzEstTech 
-Start date: 2023-08-22
-
+<footer>
+  <strong>ℹ️ Haqqında:</strong> Bu sayt Estoniyada yaşayan azərbaycanlıların məlumat və təcrübə paylaşımı üçündür.  
+  Könüllü layihə – <em>AzEstTech</em> tərəfindən yaradılıb.  
+  Texniki mənbə: <a href="https://github.com/sabuhis/estonia-guide">GitHub Repository</a>  
+  <br>Başlanğıc tarix: <em>2023-08-22</em>
+</footer>
