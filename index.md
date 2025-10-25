@@ -121,5 +121,8 @@ h1, h2, h3 {
 
 ### 💬 Haqqında
 
-Bu sayt Estoniyaya yeni köçən azərbaycanlılar üçün təcrübə, məlumat və faydalı linklərin toplandığı könüllü layihədir.  
+Bu sayt Estoniyaya yeni köçən azərbaycanlılar üçün təcrübə, məlumat və faydalı linklərin toplandığı könüllü layihədir. 
+
+Started by: AzEstTech 
+Start date: 2023-08-22
 
