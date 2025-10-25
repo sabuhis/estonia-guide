@@ -104,12 +104,14 @@ h1, h2, h3 {
     <h3>🌿 <a href="./gezinti.html">Gəziləcək və Görüləcək Yerlər</a></h3>
     <p>Ailəvi istirahət, muzeylər, restoranlar, parklar və bölgə səfərləri üçün təlimat.</p>
   </div>
-
+  <div class="card">
+    <h3>💶 <a href="./benefitler.html">Faydalar & Güzəştlər</a></h3>
+    <p>Uşaq pulu, doğum yardımı, pulsuz nəqliyyat, işsizlik ödənişi, ailə kartı, pulsuz muzey günləri və digər güzəştlər.</p>
+  </div>
   <div class="card">
     <h3>📄 <a href="./qanunlar.html">Qanunlar və Yaşayış</a></h3>
     <p>Viza, oturum icazəsi, səhiyyə və gündəlik həyat qaydaları barədə məlumatlar.</p>
   </div>
-
   <div class="card">
     <h3>📬 Əlaqə və Tövhə</h3>
     <p>Yeni məlumat və ya təklif əlavə etmək istəyirsənsə, <a href="https://github.com/sabuhis/estonia-guide/issues">buradan</a> paylaş.</p>
