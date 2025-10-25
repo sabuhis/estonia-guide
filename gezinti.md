@@ -88,6 +88,94 @@ title: Estoniyada Gəziləcək Yerlər və Restoranlar
 
 ---
 
+---
+
+## 🏬 Alış-veriş Mərkəzləri (Shopping Malls)
+
+> Estoniyanın müxtəlif şəhərlərində yerləşən ən populyar alış-veriş mərkəzləri.  
+> Bəziləri həm alış-veriş, həm də əyləncə və restoran zonaları ilə tanınır.
+
+### 🏙️ Tallinn
+- [Ülemiste Keskus](https://www.ulemistekeskus.ee/) — Estoniyanın ən böyük mall-ı, 200-dən çox mağaza, restoran, kinoteatr.  
+- [Kristiine Keskus](https://www.kristiinekeskus.ee/) — mərkəzə yaxın, moda və yemək zonası.  
+- [Viru Keskus](https://virukeskus.com/) — şəhər mərkəzində premium mağazalar və kitab mağazası.  
+- [Solaris Keskus](https://solaris.ee/) — kinoteatr, kafelər, konser zalı.  
+- [T1 Mall of Tallinn](https://t1mall.ee/) — Ferris wheel, uşaq əyləncə zonası, ailəvi istirahət üçün ideal.  
+- [Rocca al Mare Shopping Center](https://www.roccaalmare.ee/) — dəniz kənarında, 170+ mağaza, restoran, zoo və akvapark yaxınlığında.  
+- [Järve Keskus](https://www.jarvekeskus.ee/) — ev dekoru və geyim mağazaları, idman malları.  
+- [Stockmann Department Store](https://stockmann.ee/) — premium geyim, kosmetika, supermarket.  
+- [Mustamäe Keskus](https://mustamaekeskus.ee/) — kinoteatr, kafelər, supermarket.  
+- [Magistrali Keskus](https://www.magistrali.ee/) — yerli markalar, rahat alış-veriş üçün.  
+- [Lasnamäe Centrum](https://lasnamaecentrum.ee/) — böyük yaşayış bölgəsində yerləşən kompleks.  
+- [Rocca al Mare Kaubanduskeskus](https://www.roccaalmare.ee/) — Haabersti bölgəsində məşhur mərkəz.  
+
+---
+
+### 🌆 Tartu
+- [Lõunakeskus](https://astri.ee/lounakeskus/) — Cənubi Estoniyanın ən böyük ticarət mərkəzi, buz meydançası, kinoteatr və çoxlu mağazalar.  
+- [Tasku Keskus](https://tasku.ee/) — Tartu mərkəzində, ofislər və mağazalar birlikdə.  
+- [Eeden Keskus](https://www.eeden.ee/) — yenilənmiş müasir alış-veriş yeri, kinoteatr və restoranlar.  
+
+---
+
+### 🌊 Pärnu
+- [Kaubamajakas](https://www.kaubamajakas.ee/) — Pärnu şəhərinin əsas alış-veriş mərkəzi, ailəvi restoranlarla.  
+- [Port Artur 1 & 2](https://www.portartur.ee/) — iki kompleksdən ibarət, dənizkənarı zonada yerləşir.  
+- [Pärnu Keskus](https://www.parnukeskus.ee/) — çay sahilində restoranlar, mağazalar və kinoteatr.  
+
+---
+
+### 🌅 Narva
+- [Astri Keskus](https://astri.ee/narva-astri/) — şimal-şərq Estoniyanın əsas mall-ı.  
+- [Fama Keskus](https://astri.ee/fama/) — ticarət və əyləncə kompleksi.  
+
+---
+
+### 🌄 Digər şəhərlər
+- [Viimsi Keskus](https://viimsikeskus.ee/) — spa, kinoteatr və ailəvi alış-veriş.  
+- [Saaremaa Kaubamaja](https://www.saaremaakaubamaja.ee/) — Kuressaare şəhərində, ada bölgəsində.  
+- [Citycon Centrum](https://www.citycon.com/shopping-centres/centrum) — Viljandi şəhərinin əsas mərkəzi.  
+- [Kesk-Eesti Kaubanduskeskus](https://www.visitestonia.com/en/kesk-eesti-shopping-centre) — Paide şəhərində kiçik regional mall.  
+
+---
+
+## 🧺 Bazarlar və Turglar (Markets)
+
+> Ənənəvi bazarlar, street-food zonaları və yerli məhsul satışı yerləri.
+
+### 🏙️ Tallinn
+- [Balti Jaam Turg](https://www.balti-jaam-turg.ee/) — üç mərtəbəli modern bazar, ərzaq, geyim, antik mallar və street food zonası ilə.  
+- [Keskturg (Central Market)](https://visitestonia.com/en/central-market) — ən köhnə bazarlardan biri, təzə meyvə, ət, ədviyyat və pendirlər.  
+- [Nõmme Turg](https://visittallinn.ee/eng/visitor/see-do/attractions-museums/176706/nomme-market) — yerli fermer məhsulları, balıq və çörək.  
+- [Depoo Food Street](https://visitestonia.com/en/depoo-food-street) — Balti Jaam ərazisində street-food və kafe zonası.  
+
+---
+
+### 🌆 Tartu
+- [Tartu Market Hall](https://visitestonia.com/en/tartu-market-hall) — tarixi binada yerləşən bazar, yerli məhsullar və çörək.  
+
+---
+
+### 🌊 Pärnu
+- [Pärnu Market](https://visitestonia.com/en/parnu-market) — dənizkənarı şəhərdə ən məşhur bazar, balıq və tərəvəzlər.  
+
+---
+
+### 🌄 Digər bölgələr
+- [Rakvere Turg](https://visitestonia.com/en/rakvere-market) — yerli istehsalçılardan təzə məhsullar.  
+- [Viljandi Turg](https://visitestonia.com/en/viljandi-market) — bal, tərəvəz, süd və ət məhsulları.  
+- [Kuressaare Market](https://visitestonia.com/en/kuressaare-market) — Saaremaa adasında yerləşən bazar.  
+- [Valga Market](https://visitestonia.com/en/valga-market) — regional bazar, həm Estoniya, həm Latviya məhsulları.  
+- [Narva Market (Turulinn)](https://visitestonia.com/en/narva-market) — rus və eston məhsullarının qarışığı.  
+
+---
+
+### 💡 Tövsiyələr
+- Əksər turglar **bazar günləri (şənbə və bazar)** daha canlı olur.  
+- Marketlərdə **nağd ödəniş** üstünlük təşkil edir, lakin kart da qəbul olunur.  
+- Balti Jaam və Keskturg bazarlarında **hazır yeməklər** və **Azərbaycan / Türk məhsulları** da tapmaq mümkündür.
+
+
 ## 💡 Tövsiyələr
 - Çoxu yer **Google Maps**-də “4.5★ və yuxarı” reytinqdədir — getməzdən əvvəl saat və reytinqə bax.
 - Yayda — **Pärnu və Haapsalu**; Qışda — **spa və saunalar**.
