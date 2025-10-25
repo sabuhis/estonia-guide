@@ -165,20 +165,6 @@ Estoniya uzunmüddətli qalmaq üçün aşağıdakı əsas vizalar və icazələ
 
 ---
 
-### 🧭 Xülasə
-| Status | Ən uyğun viza / icazə |
-|--------|------------------------|
-| Turist | Schengen (C) |
-| Tələbə | D + TRP |
-| İşçi | TRP |
-| Ailə üzvü | TRP |
-| Biznesmen | TRP / e-Residency |
-| Startup qurucu | Startup Visa |
-| Akademik / tədqiqatçı | TRP |
-| Freelancer | Digital Nomad Visa |
-
----
-
 ### 📎 Qısa tövsiyə
 - Hər zaman **rəsmi saytları** yoxla – Estoniyada qaydalar tez-tez yenilənir.  
 - Əvvəlcə **qısa müddətli D-viza ilə gəl**, sonra **TRP (Temporary Residence Permit)** üçün müraciət et.  
