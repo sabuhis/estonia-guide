@@ -120,5 +120,4 @@ h1, h2, h3 {
 ### 💬 Haqqında
 
 Bu sayt Estoniyaya yeni köçən azərbaycanlılar üçün təcrübə, məlumat və faydalı linklərin toplandığı könüllü layihədir.  
-**Müəllif:** [Sabuhi Safarov](https://github.com/sabuhis)  
 **Repo:** [sabuhis/estonia-guide](https://github.com/sabuhis/estonia-guide)
