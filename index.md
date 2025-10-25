@@ -54,10 +54,20 @@ h1, h2, h3 {
   border-radius: 12px;
   padding: 1rem;
   transition: background 0.3s ease, transform 0.2s;
+  position: relative;
 }
 [data-theme='light'] .card {
   background: #f7f7f7;
   border-color: #ddd;
+}
+.card a.card-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  text-indent: -9999px; /* gizlə başlıq mətni */
 }
 .card:hover {
   transform: scale(1.02);
