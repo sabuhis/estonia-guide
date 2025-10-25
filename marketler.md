@@ -63,6 +63,14 @@ title: Marketlər (onlayn + fiziki)
 
 ---
 
+## 🇦🇿 Azərbaycan və Türk məhsulları satan mağazalar
+- [Turgikaubad.ee](https://turgikaubad.ee/) — Azərbaycan və Türkiyə məhsulları, ədviyyatlar, çaylar, şirniyyat, ət və süd məhsulları.
+- [Faxinin Marketi (Tallinn)](https://www.google.com/maps/place/Faxinin+marketi/@59.4294216,24.763768,513m/data=!3m2!1e3!4b1!4m6!3m5!1s0x469295d839ae3e8d:0xb3eb8b697fbf72c0!8m2!3d59.4294216!4d24.7663429!16s%2Fg%2F11wmy9dc_g?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D)  
+  📍 *Mustamäe, Tallinn*  
+  🇹🇷 Türk məhsulları, ət, ədviyyat, pendir, zeytun, çay, desertlər.
+
+  --
+
 ### Qısa məsləhətlər
 - Çatdırılma qiymətlərini **səbət** mərhələsində yoxla — rayonlar üzrə fərqli ola bilər.  
 - **Kampaniyalar** üçün həftəlik kataloqlara bax: Lidl, Rimi, Selver.  
